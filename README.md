@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-<img src='https://res.cloudinary.com/dltjv8zbh/image/upload/v1698823982/kim-brand_iqvc29.png' width='90'>
+<img src='https://res.cloudinary.com/dltjv8zbh/image/upload/v1698823982/kim-brand_iqvc29.png' width='81'>
 
-I'm Joachim, web & mobile dev maestro! With over 3 years in the game, I am passionate about building aesthetically pleasing full-stack web & mobile applications. I'm all about using the latest tech to enhance user experiences & solve real user problems.
+### I'm Joachim Mwengi
+
+A seasoned web & mobile development maestro! With over 3 years in the game, I am passionate about building aesthetically pleasing full-stack web & mobile applications. I'm all about using the latest tech to enhance user experiences & solve real user problems.
 <br>
 ### Experience
 
