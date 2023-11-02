@@ -1,6 +1,6 @@
-### Hi there 👋
-
 <img src='https://res.cloudinary.com/dltjv8zbh/image/upload/v1698823982/kim-brand_iqvc29.png' width='81'>
+
+### Hi there 👋
 
 ### I'm Joachim Mwengi
 
