@@ -22,7 +22,7 @@ A seasoned web & mobile development maestro! With over 3 years in the game, I am
 <code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 <code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 
-[![Joachim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joachim-Wambua)](https://github.com/Joachim-Wambua/github-readme-stats)
+[![Joachim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joachim-Wambua&show_icons=true&theme=radical)](https://github.com/Joachim-Wambua/github-readme-stats)
 
 <!--
 **Joachim-Wambua/Joachim-Wambua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
