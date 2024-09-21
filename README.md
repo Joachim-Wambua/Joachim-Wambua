@@ -4,13 +4,13 @@
 
 ### I'm Joachim Mwengi
 
-A seasoned web & mobile development maestro! With over 3 years in the game, I am passionate about building aesthetically pleasing full-stack web & mobile applications. I'm all about using the latest tech to enhance user experiences & solve real user problems.
+A seasoned web & mobile development maestro! With over 4 years in the game, I am passionate about building aesthetically pleasing full-stack web & mobile applications. I'm all about using the latest tech to enhance user experiences & solve real user problems.
 <br>
 ### Experience
 
-3+ Years - JavaScript, Python<br>
-2+ Years - NodeJS, ReactJS, VueJS, MySQL, ExpressJS, PHP<br>
-1+ Years - MongoDB, ThreeJS, Flask<br><br>
+4+ Years - JavaScript, Python<br>
+3+ Years - NodeJS, ReactJS, VueJS, MySQL, ExpressJS, PHP<br>
+2+ Years - MongoDB, ThreeJS, Flask<br><br>
 
 <code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
